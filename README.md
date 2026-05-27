@@ -7,3 +7,25 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 </p>
 
 Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
+
+### Showcase
+<!-- Your screenshot should go here -->
+<img src=".github/screenshots/01.png" alt="Screenshot"/><br/>
+
+### Installation
+
+1. Download the archive of your preferred palette from releases
+2. Extract into `~/.themes/`
+   ```sh
+   aunpack Eldritch-* -X ~/.themes/
+   ```
+3. (Optional) Create a symlink for GTK4
+   ```sh
+   ln -s ~/.themes/Eldritch-*/gtk-4.0/ ~/.config/
+   ```
+
+### Building
+
+This theme is based upon [Oomox](https://github.com/themix-project/oomox-gtk-theme/), therefore you'll need to use [Themix GUI](https://github.com/themix-project/themix-gui) to build it.
+
+Configuration files for it can be found in the [`oomox/`](oomox/) directory. After exporting the theme(s) using the repository's configuration files, run the `package.sh` script to patch, clean and package the theme(s).
