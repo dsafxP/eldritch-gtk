@@ -15,13 +15,13 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 ### Installation
 
 1. Download the archive of your preferred palette from releases
-2. Extract into `~/.themes/`
+2. Extract into `~/.local/share/themes/`
    ```sh
-   aunpack Eldritch-* -X ~/.themes/
+   aunpack Eldritch-* -X ~/.local/share/themes/
    ```
 3. (Optional) Create a symlink for GTK4
    ```sh
-   ln -s ~/.themes/Eldritch-*/gtk-4.0/ ~/.config/
+   ln -s ~/.local/share/themes/Eldritch-*/gtk-4.0/ ~/.config/
    ```
 
 ### Building
