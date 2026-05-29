@@ -37,6 +37,6 @@ while IFS= read -r -d '' css_file; do
         rm -f "$tmp_file"
         (( failed++ )) || true
     fi
-done < <(find "$theme_path" -type f -name "*.css" -print0)
+done < <(find "$theme_path" -type f \( -name "*.css" -o -name "*.scss" \) -print0)
 
 echo "  CSS minification complete: ${processed} file(s) minified, ${failed} skipped."
