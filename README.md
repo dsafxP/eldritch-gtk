@@ -10,7 +10,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
 <!-- Your screenshot should go here -->
-<img src=".github/screenshots/01.png" alt="Screenshot"/><br/>
+<img src=".github/screenshots/04.png" alt="Screenshot"/><br/>
 
 ### Installation
 
