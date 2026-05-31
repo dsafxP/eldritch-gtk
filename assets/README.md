@@ -2,7 +2,7 @@
 
 Per-theme files to copy into each theme after the prefix is stripped.
 
-Each subdirectory must match the unprefixed theme name (e.g. `assets/mytheme/`). Every file inside is copied verbatim into the theme directory, preserving relative paths — except for `remove.conf` and `README.md` at the top level of each subdirectory.
+Each subdirectory must match the unprefixed theme name (e.g. `assets/mytheme/`). Every file inside is copied verbatim into the theme directory, preserving relative paths except for `remove.conf` and `README.md` at the top level of each subdirectory.
 
 ## remove.conf
 
