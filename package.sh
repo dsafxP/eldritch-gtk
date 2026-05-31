@@ -78,7 +78,7 @@ apply_patches() {
 
         if grep -qE "^(---|\+\+\+) [ab]/${new_name}/" "$patch_file"; then
             echo "  Applying patch ${patch_file#"${PATCHES_DIR}/"}"
-            patch -p1 --forward --directory="${THEMES_DIR}" --input="$patch_file"
+            patch -p1 --forward --no-backup --directory="${THEMES_DIR}" --input="$patch_file"
             (( applied++ )) || true
         fi
     done
