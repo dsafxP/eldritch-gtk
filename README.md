@@ -11,18 +11,17 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 ### Showcase
 
 <details>
-    <summary🦑 Cthulhu (Default)</summary>
-        <img src=".github/screenshots/cthulhu.webp" alt="Cthulhu"/>
-    </details>
+    <summary>🦑 Cthulhu (Default)</summary>
+    <img src=".github/screenshots/cthulhu.webp" alt="Cthulhu" width=600/>
+</details>
 <details>
     <summary>🌀 Abyss (Darker)</summary>
-        <img src=".github/screenshots/abyss.webp" alt="Abyss"/>
-    </details>
+    <img src=".github/screenshots/abyss.webp" alt="Abyss" width=600/>
+</details>
 <details>
     <summary>🌅 Dusk (Light)</summary>
-        <img src=".github/screenshots/dusk.webp" alt="Cthulhu"/>
-    </details>
-<details>
+    <img src=".github/screenshots/dusk.webp" alt="Cthulhu" width=600/>
+</details>
 
 ### Installation
 
