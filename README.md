@@ -9,8 +9,20 @@ Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With 
 Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 
 ### Showcase
-<!-- Your screenshot should go here -->
-<img src=".github/screenshots/04.png" alt="Screenshot"/><br/>
+
+<details>
+    <summary🦑 Cthulhu (Default)</summary>
+        <img src=".github/screenshots/cthulhu.webp" alt="Cthulhu"/>
+    </details>
+<details>
+    <summary>🌀 Abyss (Darker)</summary>
+        <img src=".github/screenshots/abyss.webp" alt="Abyss"/>
+    </details>
+<details>
+    <summary>🌅 Dusk (Light)</summary>
+        <img src=".github/screenshots/dusk.webp" alt="Cthulhu"/>
+    </details>
+<details>
 
 ### Installation
 
